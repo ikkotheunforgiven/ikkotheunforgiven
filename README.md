@@ -11,8 +11,8 @@ Currently I'm focused on front-end developing with new tecnologies like React, V
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=Next.js&logoColor=fff)
-![Angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg)
-![Vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg)
+[![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg)
+[![vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
@@ -24,5 +24,5 @@ Currently I'm focused on front-end developing with new tecnologies like React, V
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=fff)
 
 ## Contact 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff)] (https://linkedin.com/in/ismaelcorbacho/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://linkedin.com/in/ismaelcorbacho/)
 <a href="mailto:ismaele54@gmail.com">![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=fff)</a>
