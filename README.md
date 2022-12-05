@@ -11,8 +11,8 @@ Currently I'm focused on front-end developing with new tecnologies like React, V
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=Next.js&logoColor=fff)
-[![angular](./src/angular.svg)](https://badges.aleen42.com/src/angular.svg)
-[![vue](./src/vue.svg)](https://badges.aleen42.com/src/vue.svg)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)
