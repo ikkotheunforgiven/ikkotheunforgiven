@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./brand.png" align="center" alt="ismadev" />
+  <img src="./brand.png" align="center" alt="ismadev" width="100" height="100"/>
 </div>
 
 <h1 align="center">Ismael - @ikkotheunforgiven</h1>
