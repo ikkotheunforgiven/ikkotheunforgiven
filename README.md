@@ -4,7 +4,7 @@
 
 <h1 align="center">Ismael - @ikkotheunforgiven</h1>
 
-I'm Ismael a Web Developer looking for my first job. <br />
+I'm Ismael a Frontend Developer. <br />
 Currently I'm focused on front-end developing with new technologies like React, Vue and Angular.
 
 ## Technologies
