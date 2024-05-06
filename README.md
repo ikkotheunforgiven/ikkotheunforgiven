@@ -5,11 +5,12 @@
 <h1 align="center">Ismael - @ikkotheunforgiven</h1>
 
 I'm Ismael a Frontend Developer. <br />
-Currently I'm focused on front-end developing with new technologies like React, Vue and Angular.
+Passionate front-end developer dedicated to crafting user-friendly and visually stunning web experiences. Proficient in HTML, CSS, and JavaScript, with a keen eye for design and a commitment to clean, efficient code. Constantly seeking to learn and grow in the ever-evolving world of web development. Let's build something amazing together!
 
 ## Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=000)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
