@@ -4,7 +4,6 @@
 
 <h1 align="center">Ismael - @ikkotheunforgiven</h1>
 
-I'm Ismael a Frontend Developer. <br />
 Passionate front-end developer dedicated to crafting user-friendly and visually stunning web experiences. Proficient in HTML, CSS, and JavaScript, with a keen eye for design and a commitment to clean, efficient code. Constantly seeking to learn and grow in the ever-evolving world of web development. Let's build something amazing together!
 
 ## Technologies
