@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./brand.png" align="center" alt="ismadev" width="300" height="250"/>
-</div>
-
 <h1 align="center">Ikko - @ikkotheunforgiven</h1>
 
 Passionate front-end developer dedicated to crafting user-friendly and visually stunning web experiences. Proficient in HTML, CSS, and JavaScript, with a keen eye for design and a commitment to clean, efficient code. Constantly seeking to learn and grow in the ever-evolving world of web development. Let's build something amazing together!
