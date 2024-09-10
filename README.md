@@ -25,6 +25,5 @@ Passionate front-end developer dedicated to crafting user-friendly and visually 
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=fff)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=fff)
 
-## Contact 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://linkedin.com/in/ismaelcorbacho/)
+## Contact
 <a href="mailto:ikkotheunforgiven@gmail.com">![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=fff)</a>
